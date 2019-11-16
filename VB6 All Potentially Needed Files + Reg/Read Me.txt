@@ -1,0 +1,18 @@
+To Register All R4 Files Just Use "R4 Needed Files Register Tool"
+Its A EXE With The Files And With THis Read Me!! Extract All First!!
+
+NOTE1: For Vista/Win7/Win8 Then YOu Need TO Run As Administrator!
+      To Do This, Right Click The Program Exe, And See In Menu,
+      The Option To Run As Administrator!! Select Yes If Prompted!!
+      If Not Done, It Might Fail To Register Files 100%
+
+NOTE2: Close All Running Tools, Yahoo, Skype, MSN, Browsers, Chat Clients, Etc. ALL!!
+       Before YOu Try To Register All Files With This, Or It Will Fail Moving Files!!
+
+NOTE3: If Anti Virus Is Detecting Anything, Or Making Problem, Disable It!
+       And Also Disable It While Using R4 SOftware!!
+
+NOTE4: This Auto Detect Windows 32 and 64 Bits, And Will Move And Register Files,
+       As Is Need For Either 32 Or 64 Bits WIndows!! (system32 & SysWOW64)
+
+R4
